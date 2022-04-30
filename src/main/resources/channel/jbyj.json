@@ -1,0 +1,6 @@
+{
+  "templateName": "eastmoney_yjdq",
+  "tags": ["tbody","tr","td"],
+  "mapping":[{"1":"stockCode"}],
+  "path": "https://data.eastmoney.com/bbsj/202203/yjbb.html"
+}
